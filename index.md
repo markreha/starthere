@@ -1,6 +1,6 @@
 # Welcome to Professor Mark's GitHub Repositories
-I maintain many projects on GitHub that I use mainly for use by students in their classes.
-The following is a summary of my repositories:
+I maintain many projects on GitHub that I are used mainly by my students their courses at [Grand Canyon University](https://gcu.edu).
+The following is a summary of my projects:
 * [Cloud Workshop](https://github.com/markreha/cloudworkshop/) This repository contains the Cloud Workshop SDK, which has all of the documentation, tools, and sample template applications required to build a simple, scalable, Cloud based suite of IoT applications.
 * [Cloud Services](https://github.com/markreha/cloudservices/) This repository contains the example IoT Services Reference application that implements a number of REST API's that support the IoT Reporting application and IoT Device Raspberry Pi Sense HAT application, which in combination demonstrate a simple, scalable, Cloud based IoT application.
 * [Cloud Application](https://github.com/markreha/cloudapp/) - This repository contains the example IoT Reporting Reference application, which implements a simple IoT Reporting application that can be used to display the posted data from the IoT Device Raspberry Pi Sense HAT application. The IoT Reporting Reference application consumes a REST API published by the IoT Services Reference application. These applications in combination demonstrate a simple, scalable, Cloud based IoT application.

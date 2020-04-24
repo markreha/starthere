@@ -11,4 +11,3 @@ The following are my GitHub Projects:
 * [NoSQL](https://github.com/markreha/nosql/) - This repository contains some example applications demonstrating the use of Firebase (both Realtime and Firestorm databases) and remote MongoDB (requires an account setup at mongo.com).
 * [Play Spring App in the Cloud](https://github.com/markreha/playspring/) - Simple Java Spring application that can be used for testing in various Cloud Platforms like Azure and Heroku.
 * [Play PHP Laravel App in the Cloud](https://github.com/markreha/playlaravel/) - Simple PHP Laravel application that can be used for testing in various Cloud Platforms like Azure and Heroku.
-
